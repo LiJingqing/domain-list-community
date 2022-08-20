@@ -7,11 +7,15 @@ include:attwatchtv
 include:bahamut
 include:bandcamp
 include:category-games
+include:category-novel
 include:dandanzan
 include:dazn
 include:deviantart
+include:discoveryplus
 include:disney
+include:dlsite
 include:goodreads
+include:hamivideo
 include:hbo
 include:hulu
 include:imdb
@@ -41,7 +45,9 @@ include:twitch
 include:vimeo
 include:visualarts
 include:viu
+include:volmoe
 include:wwe
+include:z-library
 include:zeetv
 
 blubrry.com
@@ -49,6 +55,7 @@ castro.fm
 egta.com
 fireside.fm
 gbnews.uk
+gimy.cc
 internationalsaimoe.com
 joox.com
 linetv.tw
@@ -56,6 +63,7 @@ litv.tv
 megaphone.fm
 moov.hk
 odysee.com
+omobi.cc
 overcast.fm
 syosetu.com
 thetvdb.com

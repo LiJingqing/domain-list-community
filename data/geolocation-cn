@@ -1,11 +1,15 @@
 # List of all domains that have access point in China mainland
 
+# 123云盘
+123pan.com
+
 # Advertisment & Analytics
 include:jiguang
 include:umeng
 
 # CDN companies & Services
 include:baijiayun
+include:bootcdn
 include:bootcss
 include:dwion
 include:maocloud
@@ -70,6 +74,7 @@ include:kuaishou
 include:kugou
 include:le
 include:lizhi
+include:mfuns
 include:miaopai
 include:mihoyo-cn
 include:muwai
@@ -101,8 +106,29 @@ include:nga
 include:stage1st
 include:zhihu
 
+# Fofa网站测绘
+fofa.info
+
+# itdog网站工具箱
+itdog.cn
+
+# 快对作业
+kuaiduizuoye.com
+
+# 论坛
+52pojie.cn # 吾爱破解
+klpbbs.com # 苦力怕论坛
+mcbbs.net # MCBBS论坛
+itsk.com # IT天空论坛
+
 # Logistics
 include:sf-express
+
+# MC百科
+mcmod.cn
+
+# 门户网站
+moulem.com
 
 # Media & News & Press
 include:category-media-cn
@@ -128,9 +154,10 @@ include:colorfulclouds
 include:coolapk
 include:cowtransfer
 include:dida365
+include:flowus
+include:foundertype
 include:geetest
 include:hanyi
-include:foundertype
 include:ipip
 include:jianshu
 include:jinshuju
@@ -157,6 +184,8 @@ include:category-scholar-cn
 include:category-wiki-cn
 include:cugbonline
 include:guokr
+include:hujiang
+include:ihuman
 include:koolearn
 include:wanfang
 include:xueersi
@@ -177,6 +206,15 @@ include:sxl
 include:segmentfault
 include:tipdm
 include:xueyuanjun
+
+# 信息学
+hihocoder.com
+jisuanke.com
+luogu.com.cn
+oi-wiki.com
+openjudge.cn
+uoj.ac
+vijos.org
 
 # Tech companies & Orginations
 include:alibaba
@@ -213,6 +251,8 @@ mojidict.com
 
 # Wiki
 jikipedia.com
+qiuwen.wiki
+shidianbaike.com
 
 # 餐饮类
 haidilao.com
@@ -241,10 +281,22 @@ tibetairlines.com.cn # 西藏航空
 variflight.com # 飞常准
 xiamenair.com # 厦门航空
 
+# Enhance Gaming
+heavenlywind.cc
+steampp.net
+
+## Android Emulator
+lsplayer.com
+yeshen.com
+
 # Others
 include:8btc
 include:jibencaozuo
 include:sinopec
+include:category-enterprise-query-platform-cn
+
+# 优启通官网
+upe.net
 
 suzuki-china.com # 铃木中国官网
 
@@ -382,6 +434,7 @@ suzuki-china.com # 铃木中国官网
 9xu.com
 a9vg.com
 aardio.com # 皖ICP备09012014号
+acetaffy.club # 粤ICP备2022042304号
 adxvip.com
 afzhan.com
 agrantsem.com
@@ -691,6 +744,7 @@ hefei.cc
 heisha.net
 hellobike.com
 hello-inc.com
+helpothers.cn
 henha.com
 henkuai.com
 herostart.com
@@ -706,6 +760,7 @@ hollycrm.com
 homeinns.com
 homekoo.com
 hongsanban.com
+hongyuanqh.com
 houdao.com
 houyuantuan.com
 hteacher.net
@@ -714,7 +769,6 @@ huashengdaili.com
 huatu.com
 huize.com
 hujia.org
-hujiang.com
 hunantv.com
 huochepiao.com
 huocheso.com
@@ -811,6 +865,7 @@ kejet.net
 kf5.com
 kimiss.com
 kingdee.com
+kiyuu.club # 沪ICP备2022004023号-1
 kkzj.com
 kongfz.com
 kouclo.com
@@ -930,6 +985,7 @@ netbian.com
 newasp.net
 newbandeng.com
 newyx.net
+noknok.cn
 nowcoder.com
 nowscore.com
 nruan.com
@@ -977,7 +1033,6 @@ pipaw.net
 pptbest.com
 pubyun.com
 qc188.com
-qcc.com
 qcds.com
 qd8.com
 qd-metro.com
@@ -1234,7 +1289,6 @@ yaoyl.com
 yaozh.com
 ycgame.com
 yeepay.com
-yeshen.com
 yesky.com
 yh31.com
 yigao.com
@@ -1336,11 +1390,6 @@ zuidaima.com
 zuowen8.com
 zuowenwang.net
 
-# 京ICP备14061319号-2
-jindidata.com
-tianyancha.com
-zhuanxiandai.com
-
 # 京ICP备12006877号-1
 fm3838.com
 larsonlimited.com
@@ -1348,7 +1397,3 @@ runsheng.com
 vzuu.com
 zoom3g.com
 zoomyou.cn
-
-# 京ICP备10040544号
-chaoxing.com
-chaoxing.cc

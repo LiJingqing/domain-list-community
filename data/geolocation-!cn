@@ -84,6 +84,7 @@ include:chinapower
 include:cnet
 include:code
 include:codecademy
+include:codeforces
 include:coursera
 include:edx
 include:egghead
@@ -142,7 +143,12 @@ include:category-orgs
 # Porn
 include:category-porn
 
+# Religion
+include:falungong
+
 # Services & Softwares
+include:category-browser-!cn
+
 include:accuweather
 include:adblock
 include:adblockplus
@@ -177,6 +183,7 @@ include:gofundme
 include:gravatar
 include:hcaptcha
 include:heroku
+include:hurricaneelectric
 include:iina
 include:infrapedia
 include:inoreader
@@ -196,11 +203,13 @@ include:notion
 include:ok
 include:okaapps
 include:opencollective
+include:organicmaps
 include:osdn
 include:pastebin
 include:patreon
 include:picsee
 include:pingpe
+include:playcover
 include:protonmail
 include:quip
 include:reabble
@@ -234,6 +243,9 @@ include:zeplin
 include:zoho
 include:zoom
 
+# Aurora Open Source Software (https://gitlab.com/AuroraOSS)
+auroraoss.com
+
 # Software development
 include:category-dev
 
@@ -260,8 +272,11 @@ include:wikidot
 include:wikihow
 include:wikimedia
 
+touhouwiki.net
+
 # Others
 include:avaxhome
+include:dlsite
 include:espressif
 include:familymart
 include:fzdm
