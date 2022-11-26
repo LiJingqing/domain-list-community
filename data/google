@@ -14,7 +14,6 @@ include:kaggle
 include:opensourceinsights
 include:polymer
 include:v8
-include:youtube
 
 # All .and domains
 and
