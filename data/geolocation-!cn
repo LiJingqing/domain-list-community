@@ -62,17 +62,7 @@ include:stackpath
 include:category-cas
 
 # Communications
-include:clubhouse
-include:discord
-include:freenode
-include:intercom
-include:line
-include:matrix
-include:messenger
-include:signal
-include:slack
-include:telegram
-include:whatsapp
+include:category-communication
 
 # Cryptocurrency
 include:category-cryptocurrency
@@ -114,6 +104,8 @@ include:ted
 include:udacity
 include:udemy
 include:w3schools
+
+chemequations.com # 线上化学方程式！
 
 # Entertainment & Games & Music & Podcasts & Videos
 include:category-entertainment
@@ -159,6 +151,7 @@ include:falungong
 # Services & Softwares
 include:category-android-app-download
 include:category-browser-!cn
+include:category-enhance-gaming
 include:decryptipastore # iOS
 
 include:accuweather
@@ -252,6 +245,8 @@ include:zeplin
 include:zoho
 include:zoom
 
+biliplus.com # BiliPlus
+
 # Online LaTeX Editor
 cloudlatex.io
 overleaf.com
@@ -287,6 +282,10 @@ include:wikimedia
 
 atwiki.jp
 touhouwiki.net
+
+# Nebula Emby
+api.nebula-emby.com
+web.nebula-emby.com
 
 # Others
 include:avaxhome
