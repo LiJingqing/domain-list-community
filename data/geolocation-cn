@@ -117,11 +117,11 @@ include:pptv
 include:qingtingfm
 include:sfacg
 include:taomee
-include:taptap
 include:tgbus
 include:tiancity
 include:u17
 include:vgtime
+include:xd
 include:xiaohongshu
 include:ximalaya
 include:youku
@@ -139,10 +139,14 @@ include:nga
 include:stage1st
 
 52pojie.cn # 吾爱破解
+kafan.cn # 卡饭论坛
 itsk.com # IT天空论坛
+wuyou.net # 无忧启动论坛
 klpbbs.com # 苦力怕论坛
 mcbbs.net # MCBBS论坛
 uiwow.com # 魔兽有爱论坛
+right.com.cn # 恩山论坛
+pcbeta.com # 远景论坛
 
 # Fofa网站测绘
 fofa.info
@@ -152,6 +156,9 @@ include:category-game-accelerator-cn
 
 # IP 定位网站
 include:ipip
+
+# HTTPDNS
+include:category-httpdns
 
 # Infinity Pro
 infinitynewtab.com
@@ -168,6 +175,25 @@ liulishuo.com
 llsapp.com
 llscdn.com
 llsserver.com
+
+# 百词斩
+baicizhan.com
+baicizhan.org  
+bczcdn.com     
+bczeducation.cn
+
+# 小站教育
+zhan.com
+
+# Burning Vocabulary
+burningvocabulary.cn
+burningvocabulary.com
+
+# 423Down
+423down.com
+
+# 果核剥壳
+ghxi.com
 
 # Logistics
 include:sf-express
@@ -221,6 +247,7 @@ include:antutu
 include:bitauto
 include:category-collaborate-cn
 include:category-documents-cn
+include:category-ntp-cn
 include:capitalonline
 include:chinaso
 include:chinaz
@@ -236,7 +263,6 @@ include:jianshu
 include:jinshuju
 include:keep
 include:lagou
-include:lanzou
 include:ldmnq
 include:liepin
 include:mafengwo
@@ -245,14 +271,25 @@ include:moji
 include:nowcoder
 include:polyv
 include:renren
+include:tendcloud
 include:vaptcha
 include:wiwide
 include:wjx
 include:wolai
 include:yinxiang
 include:zdns
+include:zhangtao
 
 mihuashi.com # 米畫師
+
+# Tower 团队协作
+tower.im
+
+# 沃丰科技
+udesk.cn
+
+# xEdge 苏州星汉云联网络技术有限公司 苏ICP备2022017953号-1
+xedge.cc
 
 # Social Media
 include:category-social-media-cn
@@ -267,9 +304,12 @@ include:baidu
 include:bluepoch
 include:bytedance
 include:didi
+include:dji
 include:huawei
 include:iflytek
+include:jushuitan
 include:kingsoft
+include:lenovo
 include:meizu
 include:netease
 include:oppo
@@ -278,8 +318,11 @@ include:qihoo360
 include:sina
 include:sogou
 include:tencent
+include:tongfang
+include:vivo
 include:xiaomi
 include:xunlei
+include:zte
 
 ezpro.pro # 小马路由
 
@@ -305,6 +348,13 @@ oi-wiki.com
 openjudge.cn
 uoj.ac
 vijos.org
+
+# LeetCode 中国站
+leetcode.cn
+leetcode-cn.com
+lingkou.xyz
+lingkou.com
+lingkou.cn
 
 # 语言能力测试
 include:j-test
@@ -351,6 +401,14 @@ include:bjyouth
 include:sumkoo
 ## 知藏（北京）数据技术有限公司 (京ICP备19038827号)
 zzdtec.com
+
+# 祐全科技
+include:youquan
+# 叮哒出行(杭州金通互联科技有限公司)
+include:dingdatech
+# 北京聚通宝科技有限公司
+include:jutongbao
+
 
 # The following domains are carried over from geosite:cn.
 # TODO: Decide how to deal with these domains
@@ -927,7 +985,6 @@ lawxp.com
 leangoo.com
 leanote.com
 ledu.com
-leetcode-cn.com
 leikeji.com
 leiphone.com
 leiting.com
@@ -1057,7 +1114,6 @@ p5w.net
 paipaibang.com
 paopaoche.net
 pc6.com
-pcbeta.com
 pchome.net
 pcpop.com
 peccn.com
@@ -1439,3 +1495,27 @@ ecombdapi.com
 
 include:fengxing
 include:suishouji
+
+# 云鲸科技
+include:narwal
+
+# 石头科技
+include:roborock
+
+# 花瓣网 稿定（厦门）信息服务有限公司 闽ICP备2021013850号-2
+huaban.com
+dancf.com
+
+# 酷家乐 杭州群核信息技术有限公司 浙ICP备12022366号-6
+kujiale.com
+
+# 文叔叔 成都字节星云科技有限公司 蜀ICP备19024011号
+wss.zone
+
+hisensehitachi.com #海信日立官网
+
+#仟寻招聘
+moseeker.com
+
+# 东郊到家
+include:dongjiao

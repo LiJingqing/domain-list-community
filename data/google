@@ -3,6 +3,7 @@ include:android
 include:blogspot
 include:dart
 include:fastlane
+include:firebase
 include:flutter
 include:golang
 include:google-ads
@@ -250,26 +251,6 @@ google.vg
 google.vu
 google.ws
 
-# firebase
-firebase.com
-firebase.io
-firebaseapp.com
-firebaseio.com
-
-full:firebase-settings.crashlytics.com @cn
-full:firebase.google.com
-full:firebase.googleapis.com
-full:firebaseappcheck.googleapis.com
-full:firebasedynamiclinks-ipv4.googleapis.com
-full:firebasedynamiclinks-ipv6.googleapis.com
-full:firebasedynamiclinks.googleapis.com
-full:firebaseinappmessaging.googleapis.com
-full:firebaseinstallations.googleapis.com
-full:firebaselogging-pa.googleapis.com
-full:firebaselogging.googleapis.com
-full:firebaseperusertopics-pa.googleapis.com
-full:firebaseremoteconfig.googleapis.com
-
 # Others
 0emm.com
 1e100.net
@@ -372,7 +353,7 @@ google.net
 google.org
 google.ventures
 googleacquisitionmigration.com
-googleapis.cn @cn
+googleapis.cn
 googleapis.com
 googleapps.com
 googlearth.com
@@ -556,14 +537,11 @@ zukunftswerkstatt.de
 full:www.recaptcha.net @cn
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/google.china.conf
-# Revision: ccc695fd89a37f70624c0a254d4a5a8402a70a4c
+# Revision: 1cb04ffd38b040ccbe6f903db9d118e78a2d10d8
 # Use in config file like this: "geosite:google@cn"
 full:265.com @cn
 full:2mdn-cn.net @cn
 full:2mdn.net @cn
-full:accounts.googlers.com @cn
-full:accounts.xn--9trs65b.com @cn
-full:accounts.xn--ggle-55da.com @cn
 full:admob-cn.com @cn
 full:adservice.google.com @cn
 full:ai.ytimg.com @cn
@@ -571,7 +549,6 @@ full:app-measurement-cn.com @cn
 full:app-measurement.com @cn
 full:apps5.oingo.com @cn
 full:avail.googleflights.net @cn
-full:beacons-handoff.gcp.gvt2.com @cn
 full:beacons.gcp.gvt2.com @cn
 full:beacons.gvt2.com @cn
 full:beacons2.gvt2.com @cn
@@ -590,9 +567,8 @@ full:cn.widevine.com @cn
 full:cnappinstall.googleadapis.com @cn
 full:connectivitycheck.gstatic.com @cn
 full:content.googleadapis.com @cn
-full:corp.google.com @cn
-full:corp.googleapis.com @cn
 full:crashlyticsreports-pa.googleapis.com @cn
+full:crl.pki.goog @cn
 full:csi.gstatic.com @cn
 full:dartsearch-cn.net @cn
 full:dg-meta.video.google.com @cn
@@ -609,6 +585,7 @@ full:download.qcpp1.net @cn
 full:download.qpdp1.net @cn
 full:download.tensorflow.google.com @cn
 full:emmapplecodevice.googleapis.com @cn
+full:firebase-settings.crashlytics.com @cn
 full:fontfiles.googleadapis.com @cn
 full:fontfiles.googleapis.com @cn
 full:fonts.googleadapis.com @cn
@@ -618,7 +595,6 @@ full:g0.gstatic.com @cn
 full:g1.gstatic.com @cn
 full:g2.gstatic.com @cn
 full:g3.gstatic.com @cn
-full:gcpnode.com @cn
 full:gonglchuangl.net @cn
 full:gongyichuangyi.net @cn
 full:google-analytics-cn.com @cn
@@ -651,8 +627,10 @@ full:imasdk.googleapis.com @cn
 full:monitoring.qatp1.net @cn
 full:monitoring.qcpp1.net @cn
 full:monitoring.qpdp1.net @cn
+full:ocsp.pki.goog @cn
 full:pagead-googlehosted.l.google.com @cn
 full:performanceparameters.googleapis.com @cn
+full:pki-goog.l.google.com @cn
 full:play.1ucrs.com @cn
 full:prod-controlbe.floonet.goog @cn
 full:prod-databe.floonet.goog @cn
@@ -671,10 +649,9 @@ full:qualysguard.qatp1.net @cn
 full:qualysguard.qcpp1.net @cn
 full:qualysguard.qpdp1.net @cn
 full:recaptcha.net @cn
+full:recaptcha-cn.net @cn
 full:redirector.bdn.dev @cn
 full:redirector.c.chat.google.com @cn
-full:redirector.c.docs.google.com @cn
-full:redirector.c.drive.google.com @cn
 full:redirector.c.mail.google.com @cn
 full:redirector.c.pack.google.com @cn
 full:redirector.c.play.google.com @cn
@@ -703,8 +680,6 @@ full:test.bugs-qa.chromium.org @cn
 full:test.gbugs-qa.chromium.org @cn
 full:tools.google.com @cn
 full:tools.l.google.com @cn
-full:up.corp.goog @cn
-full:up.gcp.googlers.com @cn
 full:update.crashlytics.com @cn
 full:update.googleapis.com @cn
 full:wear.googleapis.com @cn
@@ -716,3 +691,41 @@ full:www.gstatic.com @cn
 full:www.pxcc.com @cn
 full:xn--9kr7l.com @cn
 full:xn--flw351e.com @cn
+full:applemdm.corp.google.com @cn
+full:dns.corp.google.com @cn
+full:g3doc.corp.google.com @cn
+full:gmskiosk-ssl.corp.google.com @cn
+full:go.corp.google.com @cn
+full:gorom.corp.google.com @cn
+full:goto.corp.google.com @cn
+full:l2-uberproxy.corp.google.com @cn
+full:logger.corp.google.com @cn
+full:logger-dev.corp.google.com @cn
+full:login.corp.google.com @cn
+full:proxyconfig.corp.google.com @cn
+full:rapture-autopush.corp.google.com @cn
+full:rapture.corp.google.com @cn
+full:rapture-prod.corp.google.com @cn
+full:rapture-test.corp.google.com @cn
+full:r.cert.corp.google.com @cn
+full:ssh-relay.corp.google.com @cn
+full:sslredirect.corp.google.com @cn
+full:streaming-uberproxy.corp.google.com @cn
+full:streaming-uberproxy-rotation.corp.google.com @cn
+full:sup.corp.google.com @cn
+full:supportcenter.corp.google.com @cn
+full:sup-ssh-relay2.corp.google.com @cn
+full:sup-ssh-relay.corp.google.com @cn
+full:techstop.corp.google.com @cn
+full:uberproxy4.corp.google.com @cn
+full:uberproxy6.corp.google.com @cn
+full:uberproxy.corp.google.com @cn
+full:uberproxy-debug4.corp.google.com @cn
+full:uberproxy-debug.corp.google.com @cn
+full:uberproxy-pen-redirect.corp.google.com @cn
+full:vext.corp.google.com @cn
+full:sup.l.google.com @cn
+full:uberproxy-with-cn.l.google.com @cn
+full:uberproxy-with-cn4.l.google.com @cn
+full:uberproxy-with-cn6.l.google.com @cn
+full:qiao-cn.com @cn

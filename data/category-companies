@@ -19,6 +19,7 @@ include:cloudcone
 include:collabora
 include:dell
 include:digitalocean
+include:drweb
 include:duolingo
 include:faronics
 include:giffgaff
@@ -51,6 +52,7 @@ include:openweather
 include:oracle
 include:panasonic
 include:pccw
+include:perplexity
 include:qnap
 include:qualcomm
 include:qwant
@@ -61,6 +63,9 @@ include:smartone
 include:snap
 include:sony
 include:spacex
+include:spaceship
+include:st
+include:tailscale
 include:theboringcompany
 include:tonec
 include:uber
@@ -75,4 +80,5 @@ include:yandex
 include:category-remote-control
 
 auth0.com
+civitai.com
 porkbun.com
