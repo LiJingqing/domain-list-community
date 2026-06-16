@@ -21,6 +21,7 @@ aistudio.google.com
 bard.google.com
 gemini.google
 gemini.google.com
+gemini.gstatic.com
 
 # Gemini Code Assist
 # https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
@@ -44,6 +45,7 @@ labs.google.com
 aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
+aicode.googleapis.com
 aida.googleapis.com
 
 # Opal
@@ -55,3 +57,6 @@ full:antigravity-pa.googleapis.com
 full:antigravity.googleapis.com
 antigravity.google
 antigravity-unleash.goog
+
+# Stitch
+stitch.withgoogle.com

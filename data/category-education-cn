@@ -10,6 +10,8 @@ include:shanbay
 include:xueersi
 include:yuanfudao
 
+edu.cn
+
 # 雨课堂
 include:yuketang
 ## 雨豆课堂
@@ -18,8 +20,6 @@ yudou.cn
 yushiyan.net
 ## 学堂在线
 xuetangx.com
-
-edu.cn
 
 # 国家智慧教育公共服务平台
 cbern.com.cn
@@ -59,6 +59,8 @@ zbbm.net
 neea.cn
 # neea.edu.cn
 
+# 二一教育
+21cnjy.com
 # 云校
 91yunxiao.com
 # 爱云校/好分数
@@ -71,6 +73,9 @@ baicizhan.com
 baicizhan.org
 bczcdn.com
 bczeducation.cn
+# 班小二
+banxiaoer.com
+banxiaoer.net
 # 毕业之家科研服务平台
 biyehome.net
 # Burning Vocabulary
@@ -84,6 +89,8 @@ cugbonline.cn
 dearedu.com
 # 莞教通
 dgjy.net
+# 海词词典
+dict.cn
 # 在职研究生教育信息网
 eduei.com
 # 中公
@@ -91,6 +98,7 @@ eoffcn.com
 jinrongren.net
 offcn.com
 zggqzp.com
+zgjsks.com
 zgsydw.com
 # 高考100
 gk100.com
@@ -105,6 +113,11 @@ xir.cn
 # 日语测试
 j-test.com
 nattest-china.com
+# 菁优网
+jyeoo.com
+jyeoo.net
+# 中山市纪雅学校智慧消费平台
+jzagile.com
 # 课播云校
 keboyunxiao.com
 # 课堂派
@@ -118,6 +131,11 @@ llscdn.com
 llsserver.com
 # 马哥教育
 magedu.com
+# 墨墨背单词
+maimemo.com
+maimemostatus.com
+# 墨墨记忆卡
+markji.com
 # CIS NanoMasters
 neoscholar.com
 neoschool.com
@@ -127,12 +145,21 @@ oldboyedu.com
 pigai.org
 # 公考知识库
 saduck.top
+# 外研在线
+unipus.cn
 # 未来云校
 weilaiyunxiao.com
 # 北京嘉瑞新创教育咨询有限公司
 winyoungreading.com
+# 博茂择优
+wjwai.com
+zysn.net
 # 时代行云
 x-cloud.cc
+# 西瓜创客
+xiguacity.cn
+# 西柚英语
+xiyouyingyu.com
 # 学科网
 xkw.com
 zxxk.com
@@ -146,3 +173,8 @@ zhan.com
 zhihuishu.com
 # 浙江省教育考试院
 zjzs.net
+# 作文素材类
+zuowen8.com
+zuowenjun.com
+zuowenku.net
+zuowenwang.net

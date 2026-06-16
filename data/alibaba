@@ -10,21 +10,22 @@ taobao
 # All .tmall domains
 tmall
 
-include:9game
 include:alibabacloud
+include:aligames
 include:aliyun
 include:aliyun-drive
 include:amap
 include:cainiao
 include:dingtalk
 include:eleme
+include:shuqi
 include:teambition
 include:uc
 include:umeng
 include:youku
 
-25pp.com
 56che.com
+88cha.com
 95095.com
 ali-health.com
 aliapp.org
@@ -40,7 +41,7 @@ alibabaplanet.com
 alibabaued.com
 alibabausercontent.com
 alifanyi.com
-aligames.com
+alihealth.cn
 alihealth.com.cn
 alihealth.hk @!cn
 aliimg.com
@@ -51,6 +52,7 @@ alimebot.com
 alimei.com
 alimmdn.com
 alios.cn
+alipay-eco.com
 alipay.cn
 alipay.com
 alipay.com.cn
@@ -96,6 +98,7 @@ lazada.com
 liangxinyao.com
 m-now.cn
 maitix.com
+mappcloud.com
 mdeer.com
 mei.com
 miaostreet.com
@@ -104,27 +107,28 @@ nic.xin
 philanthropy.xin
 phpwind.com
 phpwind.net
+pp.cn
 qingtingtrip.com
 rexpos.cn
 saee.org.cn
 shenjing.com
-shuqi.com
-shuqireader.com
 sparenode.com
 supet.com
 tanx.com
 ttpod.com
-wandoujia.com
 xin.xin
 xinlingshou.cn
 yowhale.com
 yunos-inc.com
 yunos.com
 yushanfang.com
+zimgs.cn
 zuodao.com
 
 # AliExpress
 ae-rus.net @!cn
+aedns.ru @!cn
+aeplatform.ru @!cn
 aestatic.net @!cn
 aliexpress.com
 aliexpress.ru @!cn
@@ -203,6 +207,13 @@ xiami.net
 
 # 口碑
 koubei.com
+
+# 豌豆荚
+wandoujia.com
+wdjimg.com
+
+# PP助手
+25pp.com
 
 # 吱声网
 zhisheng.com

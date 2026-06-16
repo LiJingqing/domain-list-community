@@ -10,8 +10,10 @@ avtovokzaly.ru
 # Ostrovok
 ostrovok.ru
 
-# Othello from 2GIS
+# Othello / Otello from 2GIS and Sber
+2gis.ru
 otello.ru
+sber.ru
 
 # Public transport and ticketing
 include:mosmetro
@@ -22,7 +24,6 @@ full:podorozhnik.spb.ru
 full:transport.mos.ru
 gorodpay.ru
 rrtp.ru
-sbertroika.ru
 
 # Russian Railways
 rzd-bonus.ru
@@ -36,3 +37,4 @@ full:arenda.yandex.ru
 
 # Yandex Taxi
 full:taxi.yandex.ru
+fasten.ru

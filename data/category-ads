@@ -6,8 +6,11 @@ include:adobe @ads
 include:alibaba @ads
 include:amazon @ads
 include:apple @ads
+include:avito @ads
 include:baidu @ads
 include:bytedance @ads
+include:carrotquest @ads
+include:category-food-cn @ads
 include:cctv @ads
 include:disney @ads
 include:dmm @ads
@@ -15,23 +18,33 @@ include:duolingo @ads
 include:gamersky @ads
 include:google @ads
 include:hetzner @ads
+include:huawei @ads
 include:hunantv @ads
 include:iqiyi @ads
 include:jd @ads
+include:kontur @ads
 include:kuaishou @ads
-include:kugou @ads
+include:kurogames @ads
 include:le @ads
+include:mailru-group @ads
 include:meta @ads
 include:microsoft @ads
 include:mihoyo @ads
+include:mindbox @ads
+include:mozilla @ads
+include:mts-ru @ads
 include:netease @ads
+include:nicegram @ads
 include:ookla-speedtest @ads
 include:openai @ads
+include:ozon @ads
 include:picacg @ads
 include:pikpak @ads
 include:pixiv @ads
 include:qihoo360 @ads
+include:rostelecom @ads
 include:samsung @ads
+include:sber @ads
 include:sina @ads
 include:snap @ads
 include:sohu @ads
@@ -42,10 +55,12 @@ include:tendcloud @ads
 include:twitter @ads
 include:unity @ads
 include:unitychina @ads
+include:wildberries @ads
+include:x5 @ads
 include:xhamster @ads
 include:xiaomi @ads
-include:ximalaya @ads
 include:yahoo @ads
+include:yandex @ads
 include:zhihu @ads
 
 # Other domains for ads serving
@@ -132,6 +147,9 @@ pbmp.ali213.net
 applovin.com
 applvn.com
 
+# AppsFlyer
+appsflyersdk.com
+
 # Caixin
 # regexp:^pinggai\d\.caixin\.com$
 full:pinggai0.caixin.com
@@ -186,6 +204,9 @@ ad.unimhk.com
 
 # UCloud
 das-rpt-log.ucloud.cn
+
+# Vungle
+full:logs.ads.vungle.com
 
 # 数字精准广告
 telecome.cn
