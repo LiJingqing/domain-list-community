@@ -20,11 +20,7 @@ bouffalolab.com
 cxmt.com
 
 # 乐鑫信息科技
-#include:espressif
-esp8266.cn
-esp8266.com.cn
-espressif.cn
-espressif.com.cn
+include:espressif @-!cn
 
 # 华秋电子
 eda.cn
@@ -33,17 +29,39 @@ hqchip.com
 hqdoc.com
 hqpcb.com
 
+# 紫光集团
+gosinoic.com
+h3c.com
+moedu.com
+thunis.com
+tsinghuaic.com
+tsingtengms.com
+unicloud.com
+unigroup.com.cn
+uniscan.cn
+unisdigital.com
+unisemicon.com
+unisoc.com
+unispc.com
+uniswdc.com
+
 # 英飞凌
 infineon.cn
 #infineon.com
 
+# 移远通信
+iotronic.tech
+quecmall.cn
+quectel.com.cn
+
 # 嘉立创集团
 include:jlc
 
-# 移远通信
-quecmall.cn
-quectel.com.cn
-iotronic.tech
+# 聆思科技
+listenai.com
+
+# 微纳核芯
+nanocorechip.com
 
 # 瑞芯微电子
 rock-chips.com

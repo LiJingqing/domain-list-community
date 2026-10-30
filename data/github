@@ -9,6 +9,7 @@ ghe.com
 git.io
 github.ai
 github.blog
+github.career
 github.com
 github.community
 github.dev
@@ -19,6 +20,7 @@ githubhackathon.com
 githubnext.com
 githubpreview.dev
 githubstatus.com
+githubsupport.com
 githubuniverse.com
 githubusercontent.com
 myoctocat.com
@@ -59,5 +61,6 @@ full:productionresultssa17.blob.core.windows.net
 full:productionresultssa18.blob.core.windows.net
 full:productionresultssa19.blob.core.windows.net
 
-# Ads/tracking
-collector.github.com @ads
+# Telemetry
+cafe.github.com @telemetry
+collector.github.com @telemetry

@@ -48,7 +48,6 @@ authorxml.com
 businesscatalyst.com
 ccnsite.com
 ccpsx.com
-demdex.net
 dollarfotoclub.com
 dollarphotoclub.com
 dollarphotosclub.com
@@ -140,8 +139,9 @@ sign.new
 scene7.com
 
 # Adobe Stats IO
-adobestats.io
+adobestats.io @telemetry
 
 # Ads/tracking
 advertising.adobe.com @ads
+demdex.net @ads
 tubemogul.com @ads

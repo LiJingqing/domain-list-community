@@ -1,6 +1,7 @@
 # Reference: https://bitcoin.org/en/exchanges
 
 include:asproex
+include:bestchange
 include:binance
 include:bitflyer
 include:bitsquare
@@ -41,6 +42,8 @@ bitstamp.net
 bittrex.com
 blast.io
 blockchain.com
+blockchair.com
+blockchair.net
 blockfrost.io
 btcbox.co.jp
 cex.io
@@ -57,10 +60,13 @@ coinmarketcap.com
 coredao.org
 crypto.com
 cryptocompare.com
+cryptoid.info
 cryptomus.com
 curve.fi
 cyberx.com
 debank.com
+delets.cash
+delets.online
 dogecoin.com
 drpc.org
 dydx.exchange
@@ -76,6 +82,8 @@ hashflow.com
 hyperliquid.xyz
 infura.io
 invity.io
+kurs.expert
+litecoin.org
 maple.finance
 megaeth.com
 merkl.xyz
@@ -87,11 +95,16 @@ mexcsensors.com
 mytokenapi.com
 nodereal.io
 oasis.io
+onemoment.cc
 onfinality.io
 opensea.io
 osl.com
 paxful.com
+payget.pro
+platov.co
 polymarket.com
+ramon.cash
+ramon.money
 ripple.com
 rsk.co
 satoshilabs.com

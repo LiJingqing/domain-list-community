@@ -7,14 +7,17 @@ ocourier.ru
 ozon-dostavka.ru
 ozon-credit.ru
 ozon-tech.ru
+ozon.app
 ozon.by
 ozon.com
 ozon.com.by
 ozon.com.kz
 ozon.dev
 ozon.express
+ozon.global
 ozon.kz
 ozon.li
+ozon.market
 ozon.ru
 ozon.tech
 ozon.tm
@@ -54,7 +57,7 @@ full:loyalnost-adv.ozon.ru @ads
 full:new-adv.ozon.ru @ads
 full:prodvizhenie-adv.ozon.ru @ads
 full:questions-adv.ozon.ru @ads
-full:sentry.ozon.ru @ads
+full:sentry.ozon.ru @ads @telemetry
 full:xapi.ozon.by @ads
 full:xapi.ozon.com @ads
 full:xapi.ozon.com.by @ads
